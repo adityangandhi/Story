@@ -1,1 +1,3 @@
 this is the first line of the 2nd chapter.
+
+!changing stuff for git diff and then commiting.
